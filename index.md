@@ -13,4 +13,4 @@ I haven't seen a decent map of the [COVID-19 Levels](https://www.ontario.ca/page
 
 ## Disclaimer
 
-As always, the authoratative source for COVID-19 information is https://Canada.ca/coronavirus or https://covid-19.ontario.ca
+As always, the authoratative source for COVID-19 information is [Canada.ca/coronavirus](https://Canada.ca/coronavirus) or [covid-19.Ontario.ca](https://covid-19.ontario.ca)
