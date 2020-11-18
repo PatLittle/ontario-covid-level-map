@@ -9,4 +9,8 @@ I haven't seen a decent map of the [COVID-19 Levels](https://www.ontario.ca/page
 
 ## Data Sources
 * [Ontario Public Health Unit Boundaries](https://data.ontario.ca/dataset/public-health-unit-boundaries) - Ontario Open Data Portal
-* [COVID-19 Levels](https://www.ontario.ca/page/covid-19-response-framework-keeping-ontario-safe-and-open) - Ontario.ca - as appears on 2020-11-17
+* [COVID-19 Levels](https://www.ontario.ca/page/covid-19-response-framework-keeping-ontario-safe-and-open) - Ontario.ca - as accessed on 2020-11-17
+
+## Disclaimer
+
+As always, the authoratative source for COVID-19 information is Canada.ca/coronavirus or https://covid-19.ontario.ca
