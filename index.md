@@ -5,6 +5,7 @@
 I haven't seen a decent map of the [COVID-19 Levels](https://www.ontario.ca/page/covid-19-response-framework-keeping-ontario-safe-and-open) online anywhere, so I figured why not make one. 
 
 ## Updates
+* updated 2020-12-07 to reflect changes
 * updated 2020-11-30 to reflect changes
 * updated 2020-11-23 to reflect changes 
 
