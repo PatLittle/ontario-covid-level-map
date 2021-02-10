@@ -3,3 +3,4 @@ yellow - #feff5b
 orange - #fec000
 red - #fc5a62
 grey - #bfbfbf
+white - #ffffff 
